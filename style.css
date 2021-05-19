@@ -1,0 +1,51 @@
+
+#logo {
+    padding: 0;
+    margin: 0;
+    box-shadow: 0 6px 4px 0 rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+	font-family: 'Monoton', cursive;
+    color: blue;
+}
+
+/* Nav bar */
+nav {
+    margin: 0 auto;
+    display: block;
+    padding-top: 5px;
+    padding-bottom: 8px;
+    text-align: center;
+    font-size: 18px;
+}
+
+ul li {
+    list-style: none;
+    margin: 0 auto;
+    border-left: 2px solid #000000;
+    border-right: 2px solid #000000;
+    display: inline-block;
+    padding: 1px;
+    position: relative;
+    text-decoration: none;
+    text-align: center;    
+}
+
+li a {
+    color: black
+}
+
+li a:hover {
+    color: blueviolet;
+}
+
+
+* {
+    box-sizing: border-box;
+    background: #a7ce3f;
+    padding: 5px;
+    margin-top: 2px;
+    text-align: center;
+    font-family: 'Poiret One', cursive;
+}
